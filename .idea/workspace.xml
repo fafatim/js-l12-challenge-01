@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2135d94-d5bb-4dd4-b1ce-352cee215279" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +31,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1642092624991</updated>
-      <workItem from="1642092626585" duration="3045000" />
+      <workItem from="1642092626585" duration="8540000" />
     </task>
     <servers />
   </component>
@@ -42,5 +43,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1215" y="238" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1504.963@0.0.1920.1040" timestamp="1642094451790" />
+    <state x="1023" y="209" width="672" height="678" key="search.everywhere.popup" timestamp="1642113804535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1023" y="209" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1504.963@0.0.1920.1040" timestamp="1642113804535" />
   </component>
 </project>
